@@ -1,0 +1,11 @@
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\USUARIO DELL\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\5TO SEMESTRE 2022\GRAFICACION POR COMPUTADORA\APLICACIONES\Ahorcado\obj\Debug\Ahorcado.pdb
